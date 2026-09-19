@@ -4,11 +4,11 @@ A colorful, glass-style weather app built with **Flutter** for **Android** and *
 
 🌐 **Live Website:**
 
-  http://groupify.gt.tc
+  https://weather-app-huzaifa.wasmer.app
   
 ## 📥 Download the App
 
-👉 [Download Groupify APK V1.0.0](https://github.com/huzaifakhashan/GroupifyApp/releases/tag/v1.0.0)
+👉 [Download wheather_app APK V1.0.0](https://github.com/huzaifakhashan/weather-app/releases/tag/v1.0.0)
 
 ## Screenshots
 
