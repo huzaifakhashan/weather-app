@@ -2,6 +2,14 @@
 
 A colorful, glass-style weather app built with **Flutter** for **Android** and **Web**. It uses the free, key-less [Open-Meteo](https://open-meteo.com) APIs, so there is nothing to sign up for and no API key to configure.
 
+🌐 **Live Website:**
+
+  http://groupify.gt.tc
+  
+## 📥 Download the App
+
+👉 [Download Groupify APK V1.0.0](https://github.com/huzaifakhashan/GroupifyApp/releases/tag/v1.0.0)
+
 ## Screenshots
 
 | Home | Details | Search |
